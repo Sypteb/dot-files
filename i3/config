@@ -214,6 +214,8 @@ bindsym $mod+shift+s exec systemsettings
 
 bindsym $mod+shift+f exec firefox
 
+bindsym $mod+shift+d exec rofi -show drun
+
 assign [class="firefox_firefox"] $ws2
 
 #colours
